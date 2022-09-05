@@ -1,0 +1,228 @@
+.holstee {
+    color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    margin: auto;
+    text-transform: uppercase;
+    width: 800px;
+}
+.this {
+    font-size: 80px;
+    margin: 0;
+    padding: 0;
+}
+.life {
+    float: right;
+    font-size: 200px;
+    line-height: 1;
+}
+.love {
+    font-size: 19px;
+    line-height: 1.3;
+}
+.often {
+    font-size: 23px;
+}
+.change {
+    clear: both;
+    font-size: 19.5px;
+    line-height: 1.3;
+    margin-top: 7px;
+}
+.quit {
+    font-size: 24px;
+}
+.time {
+    font-size: 15px;
+}
+.stop {
+    font-size: 14.8px;
+}
+.wait {
+    font-size: 19px;
+}
+.things {
+    font-size: 25.5px;
+}
+.analyze {
+    font-size: 23px;
+    float: left;
+    margin-top: 5px;
+    margin-right: 9px;
+}
+.simple {
+    font-size: 37px;
+    float: left;
+    margin: 0px;
+}
+.emotion {
+    font-size: 9px;
+}
+.eat {
+    font-size: 10px;
+    margin-top: -20px;
+}
+.bite {
+    font-size: 17px;
+    margin-left: 0px;
+}
+.open {
+    clear: both;
+    font-size: 17px;
+    line-height: 25px;
+    margin-top: 0px;
+}
+.unite {
+    font-size: 22px;
+    word-spacing: .5px;
+    line-height: 10px;
+}
+.ask {
+    font-size: 19px;
+    word-spacing: 2.7px;
+    line-height: 28px;
+}
+.inspire {
+    font-size: 22px;
+    word-spacing: 2.4px;
+}
+.travel {
+    font-size: 43px;
+    word-spacing: 2px;
+}
+.lost {
+    font-size: 20px;
+    word-spacing: 4.5px;
+}
+.find {  
+    font-size: 16px;
+    word-spacing: 2.6px;
+}
+.seize {
+    font-size: 20px;
+    word-spacing: 3.6px
+}
+.meet {
+    font-size: 26px;
+    word-spacing: 1.4px
+}
+.create {
+    font-size: 29px;
+    line-height: 27px;
+}
+.go {
+    font-size: 33px;
+    word-spacing: 1px;
+}
+.is {
+    font-size: 68px;
+    line-height: 65px;
+}
+.short {
+    font-size: 61px;
+    line-height: 70px;
+}
+.live {
+    font-size: 35px;
+    line-height: 34px;
+    word-spacing: 3px;
+}
+.share {
+    font-size: 56px;
+    line-height: 50px;
+}
+.passion {
+    font-size: 43px;
+    line-height: 45px;
+    word-spacing: 4px
+}
+/*
+* {
+  text-align: justify;
+}
+
+.wrapper {
+    width: 450px;
+    margin: 0 auto;
+}
+
+p {
+    margin-bottom: -15px;
+    clear: both;
+}
+
+span {
+    font-size: 30px;
+}
+
+.medium-large{
+    font-size: 22px;
+}
+
+.medium-xlarge {
+    font-size: 23px;
+    letter-spacing: 1;
+}
+
+.medium-xlarge2 {
+    font-size: 25px;
+}
+
+.small{
+    font-size: 15px;
+}
+
+.medium-small {
+    font-size: 18.5px;
+}
+
+.xsmall {
+    font-size: 12px;
+    margin: 5px;
+    line-height: 1;
+}
+
+.left {
+    float: left;
+    width: 52%;
+}
+.right{
+    float: right;
+    width: 48%;
+}
+.mid-p{
+    margin-bottom: 0px;
+}
+.medium-xsmall{
+    font-size: 15.8px;
+    line-height: 1.2;
+}
+.left2{
+    float: left;
+    line-height: 1.3;
+}
+
+.large{
+    font-size: 55px;
+    line-height: 1;
+}
+
+.left.short {
+    width: 45%;
+}
+
+.right.long{
+    width: 53%;
+}
+
+.large-small {
+    font-size: 38px;
+    line-height: 1.1;
+}
+
+.large-xsmall {
+    font-size: 30px;
+}
+
+.simple {
+  line-height: 1.3;
+}
